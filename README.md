@@ -1,4 +1,4 @@
-# awsdeepcomposer
+# AWS DeepComposer
 
 This is a midi file that you can use to import into AWS DeepComposer.
 
