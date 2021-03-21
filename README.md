@@ -4,6 +4,10 @@ AWS DeepComposer gives developers a creative way to get started with machine lea
 
 This is a midi file that you can use to import into AWS DeepComposer.
 
-This midi file was used to create this composition in SoundCloud using AWS DeepComposer
+This midi file was used to create this composition in SoundCloud using AWS DeepComposer:
 
 https://soundcloud.com/morphosis/ai-generated-rock-jazz-piano
+
+Feel free to follow me on twitter for more AI / ML stories:
+
+https://twitter.com/DigitalColmer
