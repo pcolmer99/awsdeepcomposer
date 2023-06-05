@@ -6,7 +6,7 @@ This is a midi file that you can use to import into AWS DeepComposer.
 
 This midi file was used to create this composition in SoundCloud using AWS DeepComposer:
 
-https://soundcloud.com/morphosis/ai-generated-rock-jazz-piano
+https://soundcloud.com/digitalcolmer/ai-generated-rock-jazz-piano
 
 Feel free to follow me on twitter for more AI / ML stories:
 
